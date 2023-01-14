@@ -14,6 +14,6 @@ This presentation expanded on the [article](https://github.com/lana-20/software-
 
 ## [Mobile User Expectations](https://adventuresinqa.com/2014/08/11/kifsu-and-the-mobile-user-expectations/)
 
-Mobile users have far higher expectations of mobile apps when compared to other software like browser applications. The majority of reports and surveys state that nearly __80%__ of users delete an app after using it for the first time! The top four reasons for deletion are always __bad design__ and __usability__, __loading time__ and __crashes__ immediately after installation.
+Per [reports and surveys](https://github.com/lana-20/usability-testing/blob/main/Mobile%20App%20Survey%20Report.pdf), mobile users have far higher expectations of mobile apps when compared to other software like browser applications. The majority of reports and surveys state that nearly __80%__ of users delete an app after using it for the first time! The top four reasons for deletion are always __bad design__ and __usability__, __loading time__ and __crashes__ immediately after installation.
 
 Nearly __60%__ of users will delete an app that requires registration, while more than half of users expect an app to launch in under two seconds. If the app needs more time it gets deleted. Again more than half of users experience crashes the very first time they start an app.
