@@ -1,5 +1,7 @@
 # Usability Testing
 
+__CAN I USE THIS? - SQA Testing Mnemonic__
+
 Often, usability testing does not receive the attention it deserves. A common argument is that usability issues are merely “training issues” and can be dealt with through the product's training or user manuals. If your product is only for internal staff use, this may be a valid response. However, the market now demands easy-to-use products—whether your users are internal or external. 
 
 David Greenlees shares a tool he has developed to generate test ideas for usability testing. His mnemonic—CAN I USE THIS?—provides a solid starting point for testing any product. C for Comparable Product, A for Accessibility, N for Navigation, and so on.
