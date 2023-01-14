@@ -18,4 +18,4 @@ Per [reports and surveys](https://github.com/lana-20/usability-testing/blob/main
 
 Nearly __60%__ of users will delete an app that requires registration, while more than half of users expect an app to launch in under two seconds. If the app needs more time it gets deleted. Again more than half of users experience crashes the very first time they start an app.
 
-Follow the [KIFSU](https://adventuresinqa.com/2014/08/11/kifsu-and-the-mobile-user-expectations/) principle - Keep It Fast, Simple and Usable.
+Follow the [KIFSU](https://adventuresinqa.com/2014/08/11/kifsu-and-the-mobile-user-expectations/) principle - Keep It Fast, Simple and Usable. KIFSU is a take on the [KISS](http://people.apache.org/~fhanik/kiss.html) principle.
